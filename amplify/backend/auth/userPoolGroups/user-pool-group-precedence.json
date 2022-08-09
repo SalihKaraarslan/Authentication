@@ -1,0 +1,10 @@
+[
+  {
+    "groupName": "Authentication",
+    "precedence": 1
+  },
+  {
+    "groupName": "asd",
+    "precedence": 2
+  }
+]
